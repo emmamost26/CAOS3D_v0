@@ -33,7 +33,7 @@ Open MATLAB and add the repository folder to your MATLAB path.
 ### Robot-Camera Calibration:
 Run calibration_main.m in the Calibration folder to perform camera calibration.
 ### Scene Registration:
-Use registration_main.m in the Registration folder to align the scene based on the calibrated setup.
+Use registration_main.m in the Registration folder to align determine the relative pose between the local scene reference frame and the camera pose reference frame.
 ### Utilities:
 Utility functions are in the utils folder, offering reusable tools like matrix transformations, visualization tools, and general helper functions.
 For detailed instructions on each function, refer to the documentation within the function files.
