@@ -42,8 +42,8 @@ Before running the code, the folders should have following structure:
 CamSceneRegistration/  
 ├── Calibration/  
 │   ├── calibration_main.m  
-│   ├── calibration_functions/ 
-│   │   ├── functions used in calibration_main.m
+│   ├── calibration_functions/  
+│   │   ├── functions used in calibration_main.m   
 │   ├── calibration_data/  
 │   │   ├── images/  
 │   │   └── robot_poses.csv  
@@ -51,7 +51,7 @@ CamSceneRegistration/
 ├── Registration/  
 │   ├── registration_main.m  
 │   ├── registration_functions/  
-│   │   ├── functions used in registration_main.m
+│   │   ├── functions used in registration_main.m  
 │   ├── registration_data/  
 │   │   ├── images/  
 │   │   ├── ellipse_params.mat  
@@ -59,7 +59,7 @@ CamSceneRegistration/
 │   │   └── robot_poses.csv  
 │   └── registration_output/  
 ├── utils/  
-│   ├── all the utility functions
+│   ├── all the utility functions  
 └── README.md  
 
 ## Dependencies
