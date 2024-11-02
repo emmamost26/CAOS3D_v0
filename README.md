@@ -31,19 +31,15 @@ Open MATLAB and add the repository folder to your MATLAB path.
 
 ## Usage
 ### Robot-Camera Calibration:
-The folder Calibration should have the following structure:  
-- calibration_main.m
-- calibration_functions: folder containing functions called in calibration_main.m
-- calibration_data: put the images here in a subfolder called images
-- calibration_output:
-CamSceneRegistration/ ├── Calibration/ │ ├── camera_calibration_main.m │ └── Functions/ │ ├── calibrate_intrinsics.m │ └── distortion_correction.m ├── Registration/ │ ├── scene_registration_main.m │ └── Functions/ │ ├── register_scene.m │ └── align_transforms.m ├── utils/ │ ├── vec2mat.m │ └── helper_function.m └── README.md 
-
 Run calibration_main.m in the Calibration folder to perform camera calibration.
 ### Scene Registration:
 Use registration_main.m in the Registration folder to align the scene based on the calibrated setup.
 ### Utilities:
 Utility functions are in the utils folder, offering reusable tools like matrix transformations, visualization tools, and general helper functions.
 For detailed instructions on each function, refer to the documentation within the function files.
+
+The folders should have following structure:
+CamSceneRegistration/ ├── Calibration/ │ ├── calibration_main.m │ ├── calibration_functions/ │ ├── calibration_data/ │ │ ├── images/ │ │ └── robot_poses.csv │ └── calibration_output/ ├── Registration/ │ ├── registration_main.m │ ├── registration_functions/ │ ├── registration_data/ │ │ ├── images/ │ │ ├── ellipse_params.mat │ │ ├── sfm_poses.csv │ │ └── robot_poses.csv │ └── registration_output/ ├── utils/ └── README.md
 
 ## Dependencies
 - MATLAB (R2024a or later)
