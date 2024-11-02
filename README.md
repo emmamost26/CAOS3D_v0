@@ -39,7 +39,27 @@ Utility functions are in the utils folder, offering reusable tools like matrix t
 For detailed instructions on each function, refer to the documentation within the function files.
 
 The folders should have following structure:
-CamSceneRegistration/ ├── Calibration/ │ ├── calibration_main.m │ ├── calibration_functions/ │ ├── calibration_data/ │ │ ├── images/ │ │ └── robot_poses.csv │ └── calibration_output/ ├── Registration/ │ ├── registration_main.m │ ├── registration_functions/ │ ├── registration_data/ │ │ ├── images/ │ │ ├── ellipse_params.mat │ │ ├── sfm_poses.csv │ │ └── robot_poses.csv │ └── registration_output/ ├── utils/ └── README.md
+CamSceneRegistration/
+├── Calibration/
+│   ├── calibration_main.m
+│   ├── calibration_functions/
+│   ├── calibration_data/
+│   │   ├── images/
+│   │   └── robot_poses.csv
+│   └── calibration_output/
+├── Registration/
+│   ├── registration_main.m
+│   ├── registration_functions/
+│   ├── registration_data/
+│   │   ├── images/
+│   │   ├── ellipse_params.mat
+│   │   ├── sfm_poses.csv
+│   │   └── robot_poses.csv
+│   └── registration_output/
+├── utils/
+│   ├── vec2mat.m
+│   └── helper_function.m
+└── README.md
 
 ## Dependencies
 - MATLAB (R2024a or later)
