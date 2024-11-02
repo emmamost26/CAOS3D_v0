@@ -17,7 +17,7 @@ with the intention of acquiring datasets to develop, train and evaluate 3D recon
 
 ## Features
 Calibration: Intrinsics and extrinsics calibration for the camera as well as solving the robot-camera calibration problem.
-Scene Registration: Tools for registering scene images together with a scan of the scene containing spherical markers.
+Registration: Tools for registering scene images together with a scan of the scene containing spherical markers.
 utils: Helper scripts to streamline tasks, such as conversions, data transformation and visualization.
 
 ## Installation
@@ -30,11 +30,18 @@ cd CamSceneRegistration
 Open MATLAB and add the repository folder to your MATLAB path.
 
 ## Usage
-- Robot-Camera Calibration:
+### Robot-Camera Calibration:
+The folder Calibration should have the following structure:  
+- calibration_main.m
+- calibration_functions: folder containing functions called in calibration_main.m
+- calibration_data: put the images here in a subfolder called images
+- calibration_output:
+CamSceneRegistration/ ├── Calibration/ │ ├── camera_calibration_main.m │ └── Functions/ │ ├── calibrate_intrinsics.m │ └── distortion_correction.m ├── Registration/ │ ├── scene_registration_main.m │ └── Functions/ │ ├── register_scene.m │ └── align_transforms.m ├── utils/ │ ├── vec2mat.m │ └── helper_function.m └── README.md 
+
 Run calibration_main.m in the Calibration folder to perform camera calibration.
-- Scene Registration:
+### Scene Registration:
 Use registration_main.m in the Registration folder to align the scene based on the calibrated setup.
-- Utilities:
+### Utilities:
 Utility functions are in the utils folder, offering reusable tools like matrix transformations, visualization tools, and general helper functions.
 For detailed instructions on each function, refer to the documentation within the function files.
 
