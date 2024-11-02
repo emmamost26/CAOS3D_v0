@@ -22,10 +22,10 @@ utils: Helper scripts to streamline tasks, such as conversions, data transformat
 
 Installation
 Clone the repository:
-```bash
 git clone https://github.com/yourusername/CamSceneRegistration.git
 cd CamSceneRegistration
-Open MATLAB and add the repository folder to your MATLAB path. ```
+
+Open MATLAB and add the repository folder to your MATLAB path.
 
 Usage
 Robot-Camera Calibration:
