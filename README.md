@@ -47,7 +47,7 @@ CamSceneRegistration/
 │   ├── calibration_data/  
 │   │   ├── images/  
 │   │   └── robot_poses.csv  
-│   └── calibration_output/ 
+│   └── calibration_output/  
 ├── Registration/  
 │   ├── registration_main.m  
 │   ├── registration_functions/  
