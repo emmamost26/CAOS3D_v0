@@ -39,7 +39,7 @@ Utility functions are in the utils folder, offering reusable tools like matrix t
 For detailed instructions on each function, refer to the documentation within the function files.
 
 The folders should have following structure:  
-CamSceneRegistration/
+CamSceneRegistration/  
 ├── Calibration/  
 │   ├── calibration_main.m  
 │   ├── calibration_functions/  
