@@ -45,5 +45,5 @@ For detailed instructions on each function, refer to the documentation within th
 - Robotic Systems Toolbox version 24.1
 - Statistics and Machine Learning Toolbox version 24.1
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure that you update the documentation for any new features or changes.
