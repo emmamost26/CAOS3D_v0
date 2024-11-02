@@ -1,5 +1,5 @@
 # CamSceneRegistration
-MATLAB code for calibrating a robot to a camera system and registering a scene with high precision.
+MATLAB code for calibrating a robot to a camera system and registering a scene with high precision.  
 This project includes modules for camera calibration, scene registration and various utility functions.
 
 ## Table of Contents
@@ -16,14 +16,14 @@ The code was developed with high-resolution and high-precision requirements in m
 with the intention of acquiring datasets to develop, train and evaluate 3D reconstruction datasets for orthopedic surgery.
 
 ## Features
-Calibration: Intrinsics and extrinsics calibration for the camera as well as solving the robot-camera calibration problem.
-Registration: Tools for registering scene images together with a scan of the scene containing spherical markers.
-utils: Helper scripts to streamline tasks, such as conversions, data transformation and visualization.
+Calibration: Intrinsics and extrinsics calibration for the camera as well as solving the robot-camera calibration problem.  
+Registration: Tools for registering scene images together with a scan of the scene containing spherical markers.  
+utils: Helper scripts to streamline tasks, such as conversions, data transformation and visualization.  
 
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CamSceneRegistration.git 
+git clone https://github.com/emmamost26/CamSceneRegistration.git 
 cd CamSceneRegistration
 ```
 
