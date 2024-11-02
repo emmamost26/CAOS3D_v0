@@ -30,20 +30,20 @@ cd CamSceneRegistration
 Open MATLAB and add the repository folder to your MATLAB path.
 
 Usage
-Robot-Camera Calibration:
+- Robot-Camera Calibration:
 Run calibration_main.m in the Calibration folder to perform camera calibration.
-Scene Registration:
+- Scene Registration:
 Use registration_main.m in the Registration folder to align the scene based on the calibrated setup.
-Utilities:
+- Utilities:
 Utility functions are in the utils folder, offering reusable tools like matrix transformations, visualization tools, and general helper functions.
 For detailed instructions on each function, refer to the documentation within the function files.
 
 Dependencies
-MATLAB (R2024a or later)
-MATLAB Computer Vision Toolbox version 24.1 (for camera calibration)
-MATLAB Image Processing Toolbox version 24.1
-Robotic Systems Toolbox version 24.1
-Statistics and Machine Learning Toolbox version 24.1
+- MATLAB (R2024a or later)
+- MATLAB Computer Vision Toolbox version 24.1 (for camera calibration)
+- MATLAB Image Processing Toolbox version 24.1
+- Robotic Systems Toolbox version 24.1
+- Statistics and Machine Learning Toolbox version 24.1
 
 Contributing
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure that you update the documentation for any new features or changes.
