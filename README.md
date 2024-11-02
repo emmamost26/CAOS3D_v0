@@ -38,18 +38,20 @@ Use registration_main.m in the Registration folder to align the scene based on t
 Utility functions are in the utils folder, offering reusable tools like matrix transformations, visualization tools, and general helper functions.
 For detailed instructions on each function, refer to the documentation within the function files.
 
-The folders should have following structure:  
+Before running the code, the folders should have following structure:  
 CamSceneRegistration/  
 ├── Calibration/  
 │   ├── calibration_main.m  
-│   ├── calibration_functions/  
+│   ├── calibration_functions/ 
+│   │   ├── functions used in calibration_main.m
 │   ├── calibration_data/  
 │   │   ├── images/  
 │   │   └── robot_poses.csv  
-│   └── calibration_output/  
+│   └── calibration_output/ 
 ├── Registration/  
 │   ├── registration_main.m  
 │   ├── registration_functions/  
+│   │   ├── functions used in registration_main.m
 │   ├── registration_data/  
 │   │   ├── images/  
 │   │   ├── ellipse_params.mat  
@@ -57,8 +59,7 @@ CamSceneRegistration/
 │   │   └── robot_poses.csv  
 │   └── registration_output/  
 ├── utils/  
-│   ├── vec2mat.m  
-│   └── helper_function.m  
+│   ├── all the utility functions
 └── README.md  
 
 ## Dependencies
