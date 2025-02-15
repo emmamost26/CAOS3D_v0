@@ -1,4 +1,4 @@
-# CamSceneRegistration
+# CAOS3D_v0
 MATLAB code for calibrating a robot to a camera system and registering a scene with high precision.  
 This project includes modules for camera calibration, scene registration and various utility functions.
 
@@ -23,8 +23,8 @@ utils: Helper scripts to streamline tasks, such as conversions, data transformat
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/emmamost26/CamSceneRegistration.git 
-cd CamSceneRegistration
+git clone https://github.com/emmamost26/CAOS3D_v0.git 
+cd CAOS3D_v0
 ```
 
 Open MATLAB and add the repository folder to your MATLAB path.
