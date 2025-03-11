@@ -1,5 +1,5 @@
 # CAOS3D_v0
-MATLAB code for calibrating a robot to a camera system and registering a scene with high precision.  
+Code for calibrating a robot to a camera system and registering a scene with high precision.  
 This project includes modules for camera calibration, scene registration and various utility functions.
 The code was used to acquire a pilot ground truth dataset of a pig spine that can be used to train and evaluate 3D reconstruction methods.
 The link and download instructions to the pilot dataset are provided under the section Pilot Dataset.
