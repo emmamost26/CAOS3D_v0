@@ -70,7 +70,7 @@ CamSceneRegistration/
 - Statistics and Machine Learning Toolbox version 24.1
 
 ## Pilot Dataset
-- The dataset can be downloaded following the instructions in the "Dataset_download_guidelines" using the following link (including BlobEndPoint):
+- The dataset can be downloaded following the instructions in the "Azure_storage_explorer" using the following link (including BlobEndPoint):
   BlobEndpoint=https://rocs4.blob.core.windows.net/;QueueEndpoint=https://rocs4.queue.core.windows.net/;FileEndpoint=https://rocs4.file.core.windows.net/;TableEndpoint=https://rocs4.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2030-01-29T21:09:56Z&st=2025-01-29T13:09:56Z&spr=https&sig=c7ijclakri52SXDtc%2FKmlCjcotFQ9qTmxN%2Brz4zHMYs%3D
 
 ## Contributing
