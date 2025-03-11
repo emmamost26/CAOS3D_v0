@@ -1,6 +1,8 @@
 # CAOS3D_v0
 MATLAB code for calibrating a robot to a camera system and registering a scene with high precision.  
 This project includes modules for camera calibration, scene registration and various utility functions.
+The code was used to acquire a pilot ground truth dataset of a pig spine that can be used to train and evaluate 3D reconstruction methods.
+The link and download instructions to the pilot dataset are provided under the section Pilot Dataset.
 
 ## Table of Contents
 - Overview
@@ -8,6 +10,7 @@ This project includes modules for camera calibration, scene registration and var
 - Installation
 - Usage
 - Dependencies
+- Pilot dataset
 - Contributing
 
 ## Overview
@@ -65,6 +68,10 @@ CamSceneRegistration/
 - MATLAB Image Processing Toolbox version 24.1
 - Robotic Systems Toolbox version 24.1
 - Statistics and Machine Learning Toolbox version 24.1
+
+## Pilot Dataset
+- The dataset can be downloaded following the instructions in the "Dataset_download_guidelines" using the following link (including BlobEndPoint):
+  BlobEndpoint=https://rocs4.blob.core.windows.net/;QueueEndpoint=https://rocs4.queue.core.windows.net/;FileEndpoint=https://rocs4.file.core.windows.net/;TableEndpoint=https://rocs4.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2030-01-29T21:09:56Z&st=2025-01-29T13:09:56Z&spr=https&sig=c7ijclakri52SXDtc%2FKmlCjcotFQ9qTmxN%2Brz4zHMYs%3D
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure that you update the documentation for any new features or changes.
