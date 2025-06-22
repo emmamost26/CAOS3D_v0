@@ -73,3 +73,9 @@ We demonstrate the use of our pilot dataset as a benchmark to compare different 
   doi     = {10.1007/s11548-025-03385-2},
   url     = {https://doi.org/10.1007/s11548-025-03385-2}
 }</code></pre>
+
+---
+
+### Acknowledgments
+
+This work has been supported by OR-X—a Swiss national research infrastructure for translational surgery—and associated funding by the University Hospital Balgrist. Additional support was provided by the InnoSuisse Flagship project PROFICIENCY No. PFFS-21-19 and the Swiss Center for Musculoskeletal Imaging. We would like to thank Manuel Saladin for his contributions to the CT segmentation work and Vincent Schorp for assisting with video and photographic documentation of the setup.
