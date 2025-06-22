@@ -1,7 +1,3 @@
----
-title: "Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery"
----
-
 # Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery
 
 **Authors:** Emma Most, Jonas Hein, Frédéric Giraud, Nicola A. Cavalcanti, Lukas Zingg, Baptiste Brument, Nino Louman, Fabio Carrillo, Philipp Fürnstahl and Lilian Calvet
