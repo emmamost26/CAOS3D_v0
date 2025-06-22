@@ -29,11 +29,11 @@ Advances in computer vision, particularly in optical image-based 3D reconstructi
 
 ### 🛠️ Acquisition Setup
 
-Our setup consists of a specimen fixated onto a wooden board, placed on an operating table, along with a set of 10 spherical registration markers. A clinician makes an incision that is kept open with k- wires. Experiments were made in a fully equipped operating room replica (https://or-x.ch/) to allow for realistic illumination conditions.
-
 <div align="center">
   <img src="assets/setup.png" alt="Acquisition setup" width="600">
 </div>
+
+Our setup consists of a specimen fixated onto a wooden board, placed on an operating table, along with a set of 10 spherical registration markers. A clinician makes an incision that is kept open with k- wires. Experiments were made in a fully equipped operating room replica (https://or-x.ch/) to allow for realistic illumination conditions.
 
 <div align="center">
   <img src="assets/setup_video.gif" alt="Acquisition setup animation" width="500">
