@@ -7,6 +7,7 @@
 [📄 Read the paper](https://rdcu.be/el5Jj)  
 [💻 Code on GitHub](https://github.com/emmamost26/CAOS3D_v0)  
 [📚 Citation](#citation)
+[📄 View the Poster](assets/poster.pdf)
 
 ---
 
@@ -16,19 +17,13 @@ Advances in computer vision, particularly in optical image-based 3D reconstructi
 
 ---
 
-## Introduction
-
-Advances in computer vision, especially in 3D reconstruction and feature matching are opening the door to various applications in computer assisted orthopedic surgery like marker-less surgical navigation, surgical digital twins and robotic assisted surgery. Evaluating and training these methods motivates the need to acquire large, accurate, and real datasets with 3D ground truth. While suitable datasets exist for indoor and outdoor scenes, there currently does not exist a dataset with posed images and 3D ground truth of real surgical scenes with submillimeter accuracy.
-
----
-
 ### 📊 Dataset Samples
 
 <div align="center">
   <img src="assets/rgb_and_depth.png" alt="RGB image sample and depth map" width="600">
 </div>
 
-> This figure presents a sample from our dataset and the corresponding depth map obtained from our submillimeter accurate 3D ground truth.
+> We propose a pilot dataset featuring an open pig spine surgery acquired in real surgical conditions. Left: A RGB image sample from our dataset. Right: The corresponding depth map obtained from our submillimeter accurate 3D ground truth.
 
 ---
 
@@ -43,6 +38,22 @@ Our setup consists of a specimen fixated onto a wooden board, placed on an opera
 <div align="center">
   <img src="assets/setup_video.gif" alt="Acquisition setup animation" width="500">
 </div>
+
+---
+
+### 🧪 Our Dataset as Benchmark for 3D Reconstruction
+
+We demonstrate the use of our pilot dataset as a benchmark to compare different 3D reconstruction methods from posed images. We evaluated four methods that reconstruct the surface of a scene from posed RGB data in both sparse (N=8) and dense (N=216) settings. The following methods were evaluated against our ground-truth mesh:
+
+- **COLMAP** (traditional multi-view stereo)  
+- **NeuS2** (NeRF-based)  
+- **Instant-NGP** (NeRF-based)  
+- **SuGaR** (Gaussian splatting-based)
+
+<div align="center">
+  <img src="assets/benchmark.png" alt="3D reconstruction benchmark" style="width: 600px; max-width: 100%;">
+</div>
+
 
 ---
 
