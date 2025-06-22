@@ -16,7 +16,7 @@ Advances in computer vision, particularly in optical image-based 3D reconstructi
 ---
 
 ## Citation
-```bibtex
+```text
 @article{Most2025,
   author    = {Emma Most and Jonas Hein and Frédéric Giraud and Nicola A. Cavalcanti and Lukas Zingg and Baptiste Brument and Nino Louman and Fabio Carrillo and Philipp Fürnstahl and Lilian Calvet},
   title     = {Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery},
