@@ -41,7 +41,7 @@ Our setup consists of a specimen fixated onto a wooden board, placed on an opera
 </div>
 
 <div align="center">
-  <img src="assets/setup_video.gif" alt="Acquisition setup animation" width="600">
+  <img src="assets/setup_video.gif" alt="Acquisition setup animation" width="500">
 </div>
 
 ---
