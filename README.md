@@ -107,3 +107,6 @@ CamSceneRegistration/
 
 ## Contributing
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. Ensure that you update the documentation for any new features or changes.
+
+## Citation
+<h2 id="citation">Citation</h2> <pre><code>@article{Most2025, author = {Emma Most and Jonas Hein and Frédéric Giraud and Nicola A. Cavalcanti and Lukas Zingg and Baptiste Brument and Nino Louman and Fabio Carrillo and Philipp Fürnstahl and Lilian Calvet}, title = {Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery}, journal = {International Journal of Computer Assisted Radiology and Surgery}, volume = {20}, number = {6}, pages = {1293--1300}, year = {2025}, doi = {10.1007/s11548-025-03385-2}, url = {https://doi.org/10.1007/s11548-025-03385-2} }</code></pre>
