@@ -18,7 +18,7 @@ Advances in computer vision, particularly in optical image-based 3D reconstructi
 
 ---
 
-### 📊 Dataset Samples
+### 📊 Dataset Sample
 
 <div align="center">
   <img src="assets/rgb_and_depth.png" alt="RGB image sample and depth map" width="600">
