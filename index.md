@@ -54,6 +54,8 @@ We demonstrate the use of our pilot dataset as a benchmark to compare different 
   <img src="assets/benchmark.png" alt="3D reconstruction benchmark" style="width: 900px; max-width: 100%;">
 </div>
 
+> Surface reconstruction errors (mm), measured by Chamfer distance (lower is better), are compared to our ground truth across two acquisition scenarios: (i) dense viewpoints (N=216) at a resolution of $3840\times2160$ pixels, and (ii) sparse viewpoints ($N=8$) at $1920\times1080$ pixels. COLMAP performs best in the dense viewpoint scenario but fails to reconstruct the scene with only N=8 viewpoints, in which Instant-NGP shows the best performance. \textbf{b} Heatmap showing the Chamfer distance between the model reconstructed with COLMAP and our ground truth
+
 
 ---
 
