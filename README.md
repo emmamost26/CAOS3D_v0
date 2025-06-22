@@ -21,7 +21,9 @@
 
 ## Introduction
 
-Brief overview of the dataset and goals of the paper...
+Advances in computer vision, particularly in optical image-based 3D reconstruction and feature matching, enable applications like marker-less surgical navigation and digitization of surgery. However, their development is hindered by a lack of suitable datasets with 3D ground truth. This work explores an approach to generating realistic and accurate ex vivo datasets tailored for 3D reconstruction and feature matching in open orthopedic surgery.
+
+This repository contains the code used for registering the scanned 3D mesh of the visible anatomy and the posed images, as described in the paper.
 
 ## Dataset
 
