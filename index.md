@@ -5,9 +5,10 @@
 **Conference:** IPCAI 2025
 
 [📄 Read the paper](https://rdcu.be/el5Jj)  
-[💻 Code on GitHub](https://github.com/emmamost26/CAOS3D_v0)  
-[📚 Citation](#citation)
-[📄 View the Poster](assets/poster.pdf)
+[💻 Code on GitHub](https://github.com/emmamost26/CAOS3D_v0)   
+[📄 View the Poster](assets/poster.pdf) 
+[📚 Citation](#citation) 
+
 
 ---
 
