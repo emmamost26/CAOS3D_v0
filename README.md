@@ -86,7 +86,6 @@ CamSceneRegistration/
 - The dataset can be downloaded following the instructions in the "Azure_storage_explorer" using the following link (including BlobEndPoint):
   BlobEndpoint=https://rocs4.blob.core.windows.net/;QueueEndpoint=https://rocs4.queue.core.windows.net/;FileEndpoint=https://rocs4.file.core.windows.net/;TableEndpoint=https://rocs4.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2030-01-29T21:09:56Z&st=2025-01-29T13:09:56Z&spr=https&sig=c7ijclakri52SXDtc%2FKmlCjcotFQ9qTmxN%2Brz4zHMYs%3D
 
-## Citation
 <h2 id="citation">Citation</h2> <pre><code>@article{Most2025, author = {Emma Most and Jonas Hein and Frédéric Giraud and Nicola A. Cavalcanti and Lukas Zingg and Baptiste Brument and Nino Louman and Fabio Carrillo and Philipp Fürnstahl and Lilian Calvet}, title = {Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery}, journal = {International Journal of Computer Assisted Radiology and Surgery}, volume = {20}, number = {6}, pages = {1293--1300}, year = {2025}, doi = {10.1007/s11548-025-03385-2}, url = {https://doi.org/10.1007/s11548-025-03385-2} }</code></pre>
 
 ### Contributing
