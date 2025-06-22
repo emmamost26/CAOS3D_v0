@@ -40,13 +40,8 @@ Our setup consists of a specimen fixated onto a wooden board, placed on an opera
   <img src="assets/setup.png" alt="Acquisition setup" width="600">
 </div>
 
----
-
 <div align="center">
-  <video width="600" controls>
-    <source src="assets/setup_video.gif" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="assets/setup_video.gif" alt="Acquisition setup animation" width="600">
 </div>
 
 ---
