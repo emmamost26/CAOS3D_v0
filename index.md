@@ -15,6 +15,35 @@ Advances in computer vision, particularly in optical image-based 3D reconstructi
 
 ---
 
+## Introduction
+
+Advances in computer vision, especially in 3D reconstruction and feature matching are opening the door to various applications in computer assisted orthopedic surgery like marker-less surgical navigation, surgical digital twins and robotic assisted surgery. Evaluating and training these methods motivates the need to acquire large, accurate, and real datasets with 3D ground truth. While suitable datasets exist for indoor and outdoor scenes, there currently does not exist a dataset with posed images and 3D ground truth of real surgical scenes with submillimeter accuracy.
+
+---
+
+### 📊 Dataset Samples
+
+<img src="assets/rgb_and_depth.jpg" alt="RGB image sample and depth map" width="600">
+
+> This figure presents a sample from our dataset and the corresponding depth map obtained from our submillimeter accurate 3D ground truth.
+
+---
+
+### 🛠️ Acquisition Setup
+
+Our setup consists of a specimen fixated onto a wooden board, placed on an operating table, along with a set of 10 spherical registration markers. A clinician makes an incision that is kept open with k- wires. Experiments were made in a fully equipped operating room replica (https://or-x.ch/) to allow for realistic illumination conditions.
+
+<img src="assets/setup.jpg" alt="Acquisition setup" width="600">
+
+---
+
+<video width="600" controls>
+  <source src="assets/acquisition.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 <h2 id="citation">Citation</h2>
 
 <pre><code>@article{Most2025,
