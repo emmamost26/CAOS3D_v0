@@ -6,7 +6,7 @@
 
 [📄 Read the paper](https://rdcu.be/el5Jj)  
 [💻 Code on GitHub](https://github.com/emmamost26/CAOS3D_v0)   
-[📄 View the Poster](assets/poster.pdf) 
+[📄 View the Poster](assets/poster.pdf)   
 [📚 Citation](#citation) 
 
 
