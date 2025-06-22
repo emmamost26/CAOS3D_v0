@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://doi.org/10.1007/s11548-025-03385-2"><img src="https://img.shields.io/badge/Paper-Download-blue"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-brightgreen"></a>
-  <a href="https://emmamost26.github.io/CAOS3D_v0/"><img src="https://img.shields.io/badge/Project%20Page-🌐-blueviolet"></a>
+  <a href="https://github.com/emmamost26/CAOS3D_v0"><img src="https://img.shields.io/badge/Code-🌐-blueviolet"></a>
 </p>
 
 ---
