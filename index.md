@@ -51,7 +51,7 @@ We demonstrate the use of our pilot dataset as a benchmark to compare different 
 - **SuGaR** (Gaussian splatting-based)
 
 <div align="center">
-  <img src="assets/benchmark.png" alt="3D reconstruction benchmark" style="width: 600px; max-width: 100%;">
+  <img src="assets/benchmark.png" alt="3D reconstruction benchmark" style="width: 900px; max-width: 100%;">
 </div>
 
 
