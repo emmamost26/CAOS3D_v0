@@ -1,4 +1,36 @@
-# CAOS3D_v0
+# CAOS3D_v0: Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery
+
+**Authors:** Emma Most · Jonas Hein · Frédéric Giraud · Nicola A. Cavalcanti · Lukas Zingg · Baptiste Brument · Nino Louman · Fabio Carrillo · Philipp Fürnstahl · Lilian Calvet  
+**Conference:** IPCAI 2025
+
+<p align="left">
+  <a href="https://doi.org/10.1007/s11548-025-03385-2"><img src="https://img.shields.io/badge/📄%20Read%20the%20paper-10.1007/s11548--025--03385--2-blue" alt="Paper"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/📚%20Citation-Refer%20Below-orange" alt="Citation"></a>
+</p>
+
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Acquisition Setup](#acquisition-setup)
+- [Citation](#citation)
+
+---
+
+## Introduction
+
+Brief overview of the dataset and goals of the paper...
+
+## Dataset
+
+Insert a few dataset sample images like this:
+
+```html
+<img src="images/sample1.jpg" width="300"/> <img src="images/sample2.jpg" width="300"/>
+
+
 Code for calibrating a robot to a camera system and registering a scene with high precision.  
 This project includes modules for camera calibration, scene registration and various utility functions.
 The code was used to acquire a pilot ground truth dataset of a pig spine that can be used to train and evaluate 3D reconstruction methods.
