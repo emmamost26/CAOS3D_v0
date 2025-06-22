@@ -15,17 +15,16 @@ Advances in computer vision, particularly in optical image-based 3D reconstructi
 
 ---
 
-## Citation
-```text
-@article{Most2025,
-  author    = {Emma Most and Jonas Hein and Frédéric Giraud and Nicola A. Cavalcanti and Lukas Zingg and Baptiste Brument and Nino Louman and Fabio Carrillo and Philipp Fürnstahl and Lilian Calvet},
-  title     = {Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery},
-  journal   = {International Journal of Computer Assisted Radiology and Surgery},
-  volume    = {20},
-  number    = {6},
-  pages     = {1293--1300},
-  year      = {2025},
-  doi       = {10.1007/s11548-025-03385-2},
-  url       = {https://doi.org/10.1007/s11548-025-03385-2},
-  abstract  = {Advances in computer vision, particularly in optical image-based 3D reconstruction and feature matching, enable applications like marker-less surgical navigation and digitization of surgery. However, their development is hindered by a lack of suitable datasets with 3D ground truth. This work explores an approach to generating realistic and accurate ex vivo datasets tailored for 3D reconstruction and feature matching in open orthopedic surgery.}
-}
+<h2 id="citation">Citation</h2>
+
+<pre><code>@article{Most2025,
+  author  = {Emma Most and Jonas Hein and Frédéric Giraud and Nicola A. Cavalcanti and Lukas Zingg and Baptiste Brument and Nino Louman and Fabio Carrillo and Philipp Fürnstahl and Lilian Calvet},
+  title   = {Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery},
+  journal = {International Journal of Computer Assisted Radiology and Surgery},
+  volume  = {20},
+  number  = {6},
+  pages   = {1293--1300},
+  year    = {2025},
+  doi     = {10.1007/s11548-025-03385-2},
+  url     = {https://doi.org/10.1007/s11548-025-03385-2}
+}</code></pre>
