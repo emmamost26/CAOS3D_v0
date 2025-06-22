@@ -6,6 +6,7 @@
 <p align="left">
   <a href="https://doi.org/10.1007/s11548-025-03385-2"><img src="https://img.shields.io/badge/📄%20Read%20the%20paper-10.1007/s11548--025--03385--2-blue" alt="Paper"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/📚%20Citation-Refer%20Below-orange" alt="Citation"></a>
+  <a href="https://emmamost26.github.io/CAOS3D_v0/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Project%20Page-blueviolet" alt="Project Page"></a>
 </p>
 
 ---
