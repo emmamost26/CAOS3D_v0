@@ -1,14 +1,18 @@
-# Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery
+<h1 align="center" style="font-size: 2.5em; font-weight: bold;">
+  Acquiring Submillimeter-Accurate Multi-Task Vision Datasets for Computer-Assisted Orthopedic Surgery
+</h1>
 
-**Authors:** Emma Most, Jonas Hein, Frédéric Giraud, Nicola A. Cavalcanti, Lukas Zingg, Baptiste Brument, Nino Louman, Fabio Carrillo, Philipp Fürnstahl and Lilian Calvet
+<p align="center">
+  <strong>Emma Most</strong>, Jonas Hein, Frédéric Giraud, Nicola A. Cavalcanti, Lukas Zingg, Baptiste Brument, Nino Louman, Fabio Carrillo, Philipp Fürnstahl, Lilian Calvet  
+  <br>
+  <em>International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2025</em>
+</p>
 
-**Conference:** IPCAI 2025
-
-[📄 Read the paper](https://rdcu.be/el5Jj)  
-[💻 Code on GitHub](https://github.com/emmamost26/CAOS3D_v0)   
-[📄 View the Poster](assets/poster.pdf)   
-[📚 Citation](#citation) 
-
+<p align="center">
+  <a href="https://doi.org/10.1007/s11548-025-03385-2"><img src="https://img.shields.io/badge/Paper-Download-blue"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-brightgreen"></a>
+  <a href="https://emmamost26.github.io/CAOS3D_v0/"><img src="https://img.shields.io/badge/Project%20Page-🌐-blueviolet"></a>
+</p>
 
 ---
 
