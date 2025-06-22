@@ -44,7 +44,7 @@ Our setup consists of a specimen fixated onto a wooden board, placed on an opera
 
 ### 🧪 Our Dataset as Benchmark for 3D Reconstruction
 
-We demonstrate the use of our pilot dataset as a benchmark to compare different 3D reconstruction methods from posed images. We evaluated four methods that reconstruct the surface of a scene from posed RGB data in both sparse (N=8) and dense (N=216) settings. The following methods were evaluated against our ground-truth mesh:
+We demonstrate the use of our pilot dataset as a benchmark to compare different 3D reconstruction methods from posed images. We evaluated four methods that reconstruct the surface of a scene from posed RGB data. The following methods were evaluated against our ground-truth mesh:
 
 - **COLMAP** (traditional multi-view stereo)  
 - **NeuS2** (NeRF-based)  
