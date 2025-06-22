@@ -4,10 +4,17 @@
 **Conference:** IPCAI 2025
 
 <p align="left">
-  <a href="https://doi.org/10.1007/s11548-025-03385-2"><img src="https://img.shields.io/badge/📄" alt="Paper"></a>
-  <a href="#citation"><img src="https://img.shields.io/badge/📚" alt="Citation"></a>
-  <a href="https://emmamost26.github.io/CAOS3D_v0/" target="_blank"><img src="https://img.shields.io/badge/🌐%20Project%20Page-blueviolet" alt="Project Page"></a>
+  <a href="https://doi.org/10.1007/s11548-025-03385-2">
+    <img src="https://img.shields.io/badge/📄_Read_the_paper-blue" alt="Paper">
+  </a>
+  <a href="#citation">
+    <img src="https://img.shields.io/badge/📚_Citation-orange" alt="Citation">
+  </a>
+  <a href="https://emmamost26.github.io/CAOS3D_v0/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Project_Page-blueviolet" alt="Project Page">
+  </a>
 </p>
+
 
 ---
 
