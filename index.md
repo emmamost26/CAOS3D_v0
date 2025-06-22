@@ -1,6 +1,7 @@
 # Acquiring submillimeter-accurate multi-task vision datasets for computer-assisted orthopedic surgery
 
 **Authors:** Emma Most, Jonas Hein, Frédéric Giraud, Nicola A. Cavalcanti, Lukas Zingg, Baptiste Brument, Nino Louman, Fabio Carrillo, Philipp Fürnstahl and Lilian Calvet
+
 **Conference:** IPCAI 2025
 
 [📄 Read the paper](https://rdcu.be/el5Jj)  
@@ -23,7 +24,7 @@ Advances in computer vision, especially in 3D reconstruction and feature matchin
 
 ### 📊 Dataset Samples
 
-<img src="assets/rgb_and_depth.jpg" alt="RGB image sample and depth map" width="600">
+<img src="assets/rgb_and_depth.png" alt="RGB image sample and depth map" width="600">
 
 > This figure presents a sample from our dataset and the corresponding depth map obtained from our submillimeter accurate 3D ground truth.
 
@@ -33,13 +34,12 @@ Advances in computer vision, especially in 3D reconstruction and feature matchin
 
 Our setup consists of a specimen fixated onto a wooden board, placed on an operating table, along with a set of 10 spherical registration markers. A clinician makes an incision that is kept open with k- wires. Experiments were made in a fully equipped operating room replica (https://or-x.ch/) to allow for realistic illumination conditions.
 
-<img src="assets/setup.jpg" alt="Acquisition setup" width="600">
+<img src="assets/setup.png" alt="Acquisition setup" width="600">
 
 ---
 
 <video width="600" controls>
-  <source src="assets/acquisition.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="assets/setup_video.mp4" type="video/mp4">
 </video>
 
 ---
